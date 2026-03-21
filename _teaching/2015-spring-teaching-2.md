@@ -13,9 +13,11 @@ location: "Bologna, Italy"
   <a href="{{ base_path }}/files/teaching/sicss 2024/parsing_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-file-pdf"></i> Slides
   </a>
-<!-- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+<!--
+ <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
    <i class="fas fa-code"></i> Code
-  </a>--> 
+</a>
+--> 
 
 
 • **Scaling Methods**  
@@ -23,9 +25,11 @@ location: "Bologna, Italy"
   <a href="{{ base_path }}/files/teaching/sicss 2024/scaling_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-file-pdf"></i> Slides
   </a>
-<!-- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+<!-- 
+<a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
    <i class="fas fa-code"></i> Code
-  </a>--> 
+</a>
+--> 
 
 
 <style>

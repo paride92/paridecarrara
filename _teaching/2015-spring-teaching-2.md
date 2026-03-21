@@ -8,8 +8,8 @@ date: 2024-01-01
 location: "Bologna, Italy"
 ---
 
-• **Parsing XML**  
-  Introduction of XML parsing  
+<p>• <strong>Parsing XML</strong><br>
+Introduction of XML parsing</p>
   <a href="{{ base_path }}/files/teaching/sicss 2024/parsing_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-file-pdf"></i> Slides
   </a>
@@ -20,8 +20,8 @@ location: "Bologna, Italy"
 --> 
 
 
-• **Scaling Methods**  
-  Introduction on scaling political texts  
+<p>• <strong>Scaling Methods</strong><br>
+Introduction on scaling political texts</p>
   <a href="{{ base_path }}/files/teaching/sicss 2024/scaling_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-file-pdf"></i> Slides
   </a>

@@ -1,20 +1,60 @@
 ---
-title: "Teaching experience 2"
+title: "SICSS Bologna 2024"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/sicss-bologna-2024
+venue: "University of Bologna, Department of Political and Social Sciences"
+date: 2024-01-01
+location: "Bologna, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+• **Parsing XML**  
+  Introduction of XML parsing  
+  <a href="{{ base_path }}/files/teaching/sicss 2024/parsing_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
+    <i class="fas fa-file-pdf"></i> Slides
+  </a>
+<!-- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+   <i class="fas fa-code"></i> Code
+  </a>--> 
 
-Heading 1
-======
 
-Heading 2
-======
+• **Scaling Methods**  
+  Introduction on scaling political texts  
+  <a href="{{ base_path }}/files/teaching/sicss 2024/scaling_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
+    <i class="fas fa-file-pdf"></i> Slides
+  </a>
+<!-- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+   <i class="fas fa-code"></i> Code
+  </a>--> 
 
-Heading 3
-======
+
+<style>
+.btn {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 4px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.btn--primary {
+  background-color: #007bff;
+  color: white;
+  border: 1px solid #007bff;
+}
+
+.btn--primary:hover {
+  background-color: #0056b3;
+  color: white;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,123,255,0.3);
+}
+
+.btn i {
+  margin-right: 6px;
+}
+</style>

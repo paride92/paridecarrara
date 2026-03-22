@@ -13,18 +13,18 @@ Introduction of XML parsing</p>
   <a href="{{ base_path }}/files/teaching/sicss 2024/parsing_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-file-pdf"></i> Slides
   </a>
-<!--
- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
-   <i class="fas fa-code"></i> Code
-</a>
---> 
-
 
 <p>• <strong>Scaling Methods</strong><br>
 Introduction on scaling political texts</p>
   <a href="{{ base_path }}/files/teaching/sicss 2024/scaling_sicss.pdf" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-file-pdf"></i> Slides
   </a>
+
+<!--
+ <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+   <i class="fas fa-code"></i> Code
+</a>
+--> 
 <!-- 
 <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
    <i class="fas fa-code"></i> Code

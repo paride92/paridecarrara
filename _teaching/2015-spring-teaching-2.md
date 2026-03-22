@@ -20,18 +20,6 @@ Introduction on scaling political texts</p>
     <i class="fas fa-file-pdf"></i> Slides
   </a>
 
-<!--
- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
-   <i class="fas fa-code"></i> Code
-</a>
---> 
-<!-- 
-<a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
-   <i class="fas fa-code"></i> Code
-</a>
---> 
-
-
 <style>
 .btn {
   display: inline-block;
@@ -62,3 +50,14 @@ Introduction on scaling political texts</p>
   margin-right: 6px;
 }
 </style>
+
+<!--
+ <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+   <i class="fas fa-code"></i> Code
+</a>
+--> 
+<!-- 
+<a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
+   <i class="fas fa-code"></i> Code
+</a>
+--> 

@@ -1,5 +1,5 @@
 ---
-title: "SICSS Bologna 2024"
+title: "Summer Institute for Computational Social Science (SICSS) Bologna 2024"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/sicss-bologna-2024
@@ -50,14 +50,3 @@ Introduction on scaling political texts</p>
   margin-right: 6px;
 }
 </style>
-
-<!--
- <a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
-   <i class="fas fa-code"></i> Code
-</a>
---> 
-<!-- 
-<a href="{{ base_path }}/files/scaling_code.zip" class="btn btn--primary" style="margin-right: 10px;">
-   <i class="fas fa-code"></i> Code
-</a>
---> 

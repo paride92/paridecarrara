@@ -1,6 +1,4 @@
-The problem is the <style> block — in Jekyll/kramdown, when you have a <style> block in the middle of a page, it can sometimes cut off rendering of content that comes before it in the source but after a certain point.
-Move the <style> block to the top, right after the front matter:
-html---
+---
 title: "Summer Institute for Computational Social Science (SICSS) Bologna 2024"
 collection: teaching
 type: "Workshop"

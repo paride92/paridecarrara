@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5303-4066"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "researchgate.net/profile/Paride-Carrara?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  researchgate     : "https://www.researchgate.net/profile/Paride-Carrara?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development

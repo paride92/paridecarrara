@@ -20,7 +20,7 @@ main:
   #"Portfolio"
   #  url: /portfolio/
         
-  - title: "LLMs"
+  - title: "LLMs & Software"
     url: /llm/
     
   - title: "CV"

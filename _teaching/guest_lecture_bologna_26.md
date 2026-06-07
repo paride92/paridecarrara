@@ -9,7 +9,6 @@ location: "Bologna, Italy"
 ---
 <p>A guest lecture for the PhD Programme in Political and Social Sciences on measuring policy positions from political text, moving from bag-of-words approaches to modern large language models.
 The full tutorial, organised as standalone Quarto notebooks, is freely available online:</p>
-
 <div style="margin: 20px 0;">
   <a href="https://paride92.github.io/guest_lecture_scaling_methods/" class="btn btn--primary" style="margin-right: 10px;">
     <i class="fas fa-external-link-alt"></i> Online Tutorial

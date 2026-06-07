@@ -1,5 +1,5 @@
 ---
-title: "Measuring Policy Positions from Text:from BoW to LLms"
+title: "Measuring Policy Positions from Text: from BoW to LLMs - 2026"
 collection: teaching
 type: "Guest Lecture PhD Programme"
 permalink: /teaching/2026-guestlecture
